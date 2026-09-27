@@ -1,0 +1,5712 @@
+{
+  "customers": [
+    {
+      "customer_id": "c_173_anika_for_m_044_vinod_pharmacie_chennai",
+      "merchant_id": "m_044_vinod_pharmacie_chennai",
+      "identity": {
+        "name": "Anika",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 2,
+        "services_received": [],
+        "lifetime_value": 2168
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_104_ananya_for_m_026_karim_salon_ahmedabad",
+      "merchant_id": "m_026_karim_salon_ahmedabad",
+      "identity": {
+        "name": "Ananya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 3,
+        "services_received": [],
+        "lifetime_value": 825
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_180_diya_for_m_045_vinod_pharmacie_mumbai",
+      "merchant_id": "m_045_vinod_pharmacie_mumbai",
+      "identity": {
+        "name": "Diya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 1,
+        "services_received": [],
+        "lifetime_value": 252
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_167_ananya_for_m_042_pooja_gym_pune",
+      "merchant_id": "m_042_pooja_gym_pune",
+      "identity": {
+        "name": "Ananya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 7,
+        "services_received": [],
+        "lifetime_value": 8281
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_136_arjun_for_m_034_suresh_restaurant_delhi",
+      "merchant_id": "m_034_suresh_restaurant_delhi",
+      "identity": {
+        "name": "Arjun",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 4,
+        "services_received": [],
+        "lifetime_value": 4200
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_039_aadhya_for_m_010_sunrisepharm_pharmacy_lucknow",
+      "merchant_id": "m_010_sunrisepharm_pharmacy_lucknow",
+      "identity": {
+        "name": "Aadhya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 6,
+        "services_received": [],
+        "lifetime_value": 5352
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_170_anika_for_m_043_komal_pharmacie_ahmedabad",
+      "merchant_id": "m_043_komal_pharmacie_ahmedabad",
+      "identity": {
+        "name": "Anika",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 11,
+        "services_received": [],
+        "lifetime_value": 9944
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_168_aadhya_for_m_042_pooja_gym_pune",
+      "merchant_id": "m_042_pooja_gym_pune",
+      "identity": {
+        "name": "Aadhya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 5,
+        "services_received": [],
+        "lifetime_value": 1285
+      },
+      "state": "lapsed_hard",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_147_riya_for_m_037_pooja_gym_bangalore",
+      "merchant_id": "m_037_pooja_gym_bangalore",
+      "identity": {
+        "name": "Riya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 9,
+        "services_received": [],
+        "lifetime_value": 6993
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_177_myra_for_m_045_vinod_pharmacie_mumbai",
+      "merchant_id": "m_045_vinod_pharmacie_mumbai",
+      "identity": {
+        "name": "Myra",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 10,
+        "services_received": [],
+        "lifetime_value": 2860
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_010_rashmi_for_m007",
+      "merchant_id": "m_007_powerhouse_gym_bangalore",
+      "identity": {
+        "name": "Rashmi",
+        "phone_redacted": "<phone>",
+        "language_pref": "english",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-10",
+        "last_visit": "2026-02-28",
+        "visits_total": 22,
+        "services_received": [
+          "membership_x4",
+          "PT_intro"
+        ],
+        "lifetime_value": 4490
+      },
+      "state": "lapsed_hard",
+      "preferences": {
+        "preferred_slots": "weekday_evening",
+        "channel": "whatsapp",
+        "reminder_opt_in": true,
+        "training_focus": "weight_loss"
+      },
+      "consent": {
+        "opted_in_at": "2025-09-10",
+        "scope": [
+          "renewal_reminders",
+          "winback_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_162_aarav_for_m_041_akash_gym_hyderabad",
+      "merchant_id": "m_041_akash_gym_hyderabad",
+      "identity": {
+        "name": "Aarav",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 5,
+        "services_received": [],
+        "lifetime_value": 1180
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_018_myra_for_m_002_bharat_dentist_mumbai",
+      "merchant_id": "m_002_bharat_dentist_mumbai",
+      "identity": {
+        "name": "Myra",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 11,
+        "services_received": [],
+        "lifetime_value": 11550
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_046_myra_for_m_012_dr_karthik_dentist_mumbai",
+      "merchant_id": "m_012_dr_karthik_dentist_mumbai",
+      "identity": {
+        "name": "Myra",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 11,
+        "services_received": [],
+        "lifetime_value": 10692
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_115_aditya_for_m_029_anand_restaurant_chandigarh",
+      "merchant_id": "m_029_anand_restaurant_chandigarh",
+      "identity": {
+        "name": "Aditya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 5,
+        "services_received": [],
+        "lifetime_value": 3370
+      },
+      "state": "churned",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_044_vivaan_for_m_011_dr_sameer_dentist_bangalore",
+      "merchant_id": "m_011_dr_sameer_dentist_bangalore",
+      "identity": {
+        "name": "Vivaan",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 5,
+        "services_received": [],
+        "lifetime_value": 4900
+      },
+      "state": "new",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_144_aditya_for_m_036_roshni_gym_ahmedabad",
+      "merchant_id": "m_036_roshni_gym_ahmedabad",
+      "identity": {
+        "name": "Aditya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 4,
+        "services_received": [],
+        "lifetime_value": 4800
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_134_vihaan_for_m_034_suresh_restaurant_delhi",
+      "merchant_id": "m_034_suresh_restaurant_delhi",
+      "identity": {
+        "name": "Vihaan",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 12,
+        "services_received": [],
+        "lifetime_value": 9252
+      },
+      "state": "churned",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_121_ishaan_for_m_031_suresh_restaurant_jaipur",
+      "merchant_id": "m_031_suresh_restaurant_jaipur",
+      "identity": {
+        "name": "Ishaan",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 10,
+        "services_received": [],
+        "lifetime_value": 5330
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_132_vihaan_for_m_033_anand_restaurant_bangalore",
+      "merchant_id": "m_033_anand_restaurant_bangalore",
+      "identity": {
+        "name": "Vihaan",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 10,
+        "services_received": [],
+        "lifetime_value": 3520
+      },
+      "state": "lapsed_hard",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_086_ananya_for_m_022_renu_salon_ahmedabad",
+      "merchant_id": "m_022_renu_salon_ahmedabad",
+      "identity": {
+        "name": "Ananya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 6,
+        "services_received": [],
+        "lifetime_value": 5922
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_059_vivaan_for_m_015_dr_priya_dentist_chandigarh",
+      "merchant_id": "m_015_dr_priya_dentist_chandigarh",
+      "identity": {
+        "name": "Vivaan",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 5,
+        "services_received": [],
+        "lifetime_value": 5295
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_174_aadhya_for_m_044_vinod_pharmacie_chennai",
+      "merchant_id": "m_044_vinod_pharmacie_chennai",
+      "identity": {
+        "name": "Aadhya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 10,
+        "services_received": [],
+        "lifetime_value": 3940
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_051_anika_for_m_013_dr_neha_dentist_jaipur",
+      "merchant_id": "m_013_dr_neha_dentist_jaipur",
+      "identity": {
+        "name": "Anika",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 1,
+        "services_received": [],
+        "lifetime_value": 1307
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_003_aanya_for_m001",
+      "merchant_id": "m_001_drmeera_dentist_delhi",
+      "identity": {
+        "name": "Aanya (parent: Sneha)",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "child_under_12"
+      },
+      "relationship": {
+        "first_visit": "2026-01-08",
+        "last_visit": "2026-01-08",
+        "visits_total": 1,
+        "services_received": [
+          "pediatric_checkup"
+        ],
+        "lifetime_value": 199
+      },
+      "state": "lapsed_hard",
+      "preferences": {
+        "preferred_slots": "weekday_after_3pm",
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2026-01-08",
+        "scope": [
+          "recall_reminders"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_143_aditya_for_m_036_roshni_gym_ahmedabad",
+      "merchant_id": "m_036_roshni_gym_ahmedabad",
+      "identity": {
+        "name": "Aditya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 3,
+        "services_received": [],
+        "lifetime_value": 750
+      },
+      "state": "churned",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_153_ananya_for_m_039_karan_gym_jaipur",
+      "merchant_id": "m_039_karan_gym_jaipur",
+      "identity": {
+        "name": "Ananya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 7,
+        "services_received": [],
+        "lifetime_value": 2065
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_123_diya_for_m_031_suresh_restaurant_jaipur",
+      "merchant_id": "m_031_suresh_restaurant_jaipur",
+      "identity": {
+        "name": "Diya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 12,
+        "services_received": [],
+        "lifetime_value": 8448
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_156_aryan_for_m_039_karan_gym_jaipur",
+      "merchant_id": "m_039_karan_gym_jaipur",
+      "identity": {
+        "name": "Aryan",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 11,
+        "services_received": [],
+        "lifetime_value": 12694
+      },
+      "state": "lapsed_hard",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_037_saanvi_for_m_009_apollo_pharmacy_jaipur",
+      "merchant_id": "m_009_apollo_pharmacy_jaipur",
+      "identity": {
+        "name": "Saanvi",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 10,
+        "services_received": [],
+        "lifetime_value": 8590
+      },
+      "state": "new",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_058_ananya_for_m_015_dr_priya_dentist_chandigarh",
+      "merchant_id": "m_015_dr_priya_dentist_chandigarh",
+      "identity": {
+        "name": "Ananya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 6,
+        "services_received": [],
+        "lifetime_value": 2460
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_137_kavya_for_m_035_manisha_gym_delhi",
+      "merchant_id": "m_035_manisha_gym_delhi",
+      "identity": {
+        "name": "Kavya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 10,
+        "services_received": [],
+        "lifetime_value": 5980
+      },
+      "state": "churned",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_189_tara_for_m_048_vinod_pharmacie_mumbai",
+      "merchant_id": "m_048_vinod_pharmacie_mumbai",
+      "identity": {
+        "name": "Tara",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 10,
+        "services_received": [],
+        "lifetime_value": 2100
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_067_reyansh_for_m_017_dr_rajan_dentist_mumbai",
+      "merchant_id": "m_017_dr_rajan_dentist_mumbai",
+      "identity": {
+        "name": "Reyansh",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 1,
+        "services_received": [],
+        "lifetime_value": 482
+      },
+      "state": "new",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_186_vihaan_for_m_047_anil_pharmacie_chandigarh",
+      "merchant_id": "m_047_anil_pharmacie_chandigarh",
+      "identity": {
+        "name": "Vihaan",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 9,
+        "services_received": [],
+        "lifetime_value": 9531
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_133_aryan_for_m_034_suresh_restaurant_delhi",
+      "merchant_id": "m_034_suresh_restaurant_delhi",
+      "identity": {
+        "name": "Aryan",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 1,
+        "services_received": [],
+        "lifetime_value": 1190
+      },
+      "state": "lapsed_hard",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_198_arjun_for_m_050_bharti_pharmacie_chennai",
+      "merchant_id": "m_050_bharti_pharmacie_chennai",
+      "identity": {
+        "name": "Arjun",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 7,
+        "services_received": [],
+        "lifetime_value": 6986
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_031_diya_for_m_006_southindiancafe_restaurant_bangalore",
+      "merchant_id": "m_006_southindiancafe_restaurant_bangalore",
+      "identity": {
+        "name": "Diya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 3,
+        "services_received": [],
+        "lifetime_value": 3399
+      },
+      "state": "lapsed_hard",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_033_vihaan_for_m_007_powerhouse_gym_bangalore",
+      "merchant_id": "m_007_powerhouse_gym_bangalore",
+      "identity": {
+        "name": "Vihaan",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 5,
+        "services_received": [],
+        "lifetime_value": 6425
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_199_saanvi_for_m_050_bharti_pharmacie_chennai",
+      "merchant_id": "m_050_bharti_pharmacie_chennai",
+      "identity": {
+        "name": "Saanvi",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 2,
+        "services_received": [],
+        "lifetime_value": 1642
+      },
+      "state": "new",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_188_aarav_for_m_047_anil_pharmacie_chandigarh",
+      "merchant_id": "m_047_anil_pharmacie_chandigarh",
+      "identity": {
+        "name": "Aarav",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 3,
+        "services_received": [],
+        "lifetime_value": 837
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_060_ira_for_m_015_dr_priya_dentist_chandigarh",
+      "merchant_id": "m_015_dr_priya_dentist_chandigarh",
+      "identity": {
+        "name": "Ira",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 4,
+        "services_received": [],
+        "lifetime_value": 5636
+      },
+      "state": "new",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_172_myra_for_m_043_komal_pharmacie_ahmedabad",
+      "merchant_id": "m_043_komal_pharmacie_ahmedabad",
+      "identity": {
+        "name": "Myra",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 4,
+        "services_received": [],
+        "lifetime_value": 3996
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_016_tara_for_m_001_drmeera_dentist_delhi",
+      "merchant_id": "m_001_drmeera_dentist_delhi",
+      "identity": {
+        "name": "Tara",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 9,
+        "services_received": [],
+        "lifetime_value": 5220
+      },
+      "state": "lapsed_hard",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_096_arjun_for_m_024_geeta_salon_bangalore",
+      "merchant_id": "m_024_geeta_salon_bangalore",
+      "identity": {
+        "name": "Arjun",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 8,
+        "services_received": [],
+        "lifetime_value": 1976
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_032_reyansh_for_m_007_powerhouse_gym_bangalore",
+      "merchant_id": "m_007_powerhouse_gym_bangalore",
+      "identity": {
+        "name": "Reyansh",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 1,
+        "services_received": [],
+        "lifetime_value": 281
+      },
+      "state": "new",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_036_ishaan_for_m_009_apollo_pharmacy_jaipur",
+      "merchant_id": "m_009_apollo_pharmacy_jaipur",
+      "identity": {
+        "name": "Ishaan",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 7,
+        "services_received": [],
+        "lifetime_value": 1904
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_151_aditya_for_m_038_pooja_gym_chandigarh",
+      "merchant_id": "m_038_pooja_gym_chandigarh",
+      "identity": {
+        "name": "Aditya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 1,
+        "services_received": [],
+        "lifetime_value": 1486
+      },
+      "state": "lapsed_hard",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_183_arjun_for_m_046_sunita_pharmacie_lucknow",
+      "merchant_id": "m_046_sunita_pharmacie_lucknow",
+      "identity": {
+        "name": "Arjun",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 11,
+        "services_received": [],
+        "lifetime_value": 11869
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_124_vihaan_for_m_031_suresh_restaurant_jaipur",
+      "merchant_id": "m_031_suresh_restaurant_jaipur",
+      "identity": {
+        "name": "Vihaan",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 2,
+        "services_received": [],
+        "lifetime_value": 1156
+      },
+      "state": "lapsed_hard",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_195_vivaan_for_m_049_komal_pharmacie_lucknow",
+      "merchant_id": "m_049_komal_pharmacie_lucknow",
+      "identity": {
+        "name": "Vivaan",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 10,
+        "services_received": [],
+        "lifetime_value": 4710
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_185_anika_for_m_047_anil_pharmacie_chandigarh",
+      "merchant_id": "m_047_anil_pharmacie_chandigarh",
+      "identity": {
+        "name": "Anika",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 4,
+        "services_received": [],
+        "lifetime_value": 1940
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_114_ananya_for_m_029_anand_restaurant_chandigarh",
+      "merchant_id": "m_029_anand_restaurant_chandigarh",
+      "identity": {
+        "name": "Ananya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 1,
+        "services_received": [],
+        "lifetime_value": 908
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_166_aarav_for_m_042_pooja_gym_pune",
+      "merchant_id": "m_042_pooja_gym_pune",
+      "identity": {
+        "name": "Aarav",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 4,
+        "services_received": [],
+        "lifetime_value": 3884
+      },
+      "state": "new",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_094_ananya_for_m_024_geeta_salon_bangalore",
+      "merchant_id": "m_024_geeta_salon_bangalore",
+      "identity": {
+        "name": "Ananya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 10,
+        "services_received": [],
+        "lifetime_value": 9240
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_054_aryan_for_m_014_dr_asha_dentist_chandigarh",
+      "merchant_id": "m_014_dr_asha_dentist_chandigarh",
+      "identity": {
+        "name": "Aryan",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 11,
+        "services_received": [],
+        "lifetime_value": 8767
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_064_aarav_for_m_016_dr_rajan_dentist_pune",
+      "merchant_id": "m_016_dr_rajan_dentist_pune",
+      "identity": {
+        "name": "Aarav",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 1,
+        "services_received": [],
+        "lifetime_value": 1039
+      },
+      "state": "lapsed_hard",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_081_riya_for_m_021_paras_salon_chandigarh",
+      "merchant_id": "m_021_paras_salon_chandigarh",
+      "identity": {
+        "name": "Riya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 5,
+        "services_received": [],
+        "lifetime_value": 6930
+      },
+      "state": "churned",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_111_aadhya_for_m_028_karim_restaurant_chennai",
+      "merchant_id": "m_028_karim_restaurant_chennai",
+      "identity": {
+        "name": "Aadhya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 3,
+        "services_received": [],
+        "lifetime_value": 3120
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_113_aryan_for_m_029_anand_restaurant_chandigarh",
+      "merchant_id": "m_029_anand_restaurant_chandigarh",
+      "identity": {
+        "name": "Aryan",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 9,
+        "services_received": [],
+        "lifetime_value": 4554
+      },
+      "state": "new",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_006_amit_for_m005",
+      "merchant_id": "m_005_pizzajunction_restaurant_delhi",
+      "identity": {
+        "name": "Amit",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2026-04-12",
+        "last_visit": "2026-04-22",
+        "visits_total": 5,
+        "services_received": [
+          "delivery_pizza",
+          "delivery_combo",
+          "dine_in",
+          "delivery_pizza",
+          "delivery_pizza"
+        ],
+        "lifetime_value": 2380,
+        "favourite_dish": "BBQ Chicken Pizza"
+      },
+      "state": "active",
+      "preferences": {
+        "preferred_slots": "fri_sat_night",
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2026-04-12",
+        "scope": [
+          "promotional_offers",
+          "match_night_specials"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_152_arjun_for_m_038_pooja_gym_chandigarh",
+      "merchant_id": "m_038_pooja_gym_chandigarh",
+      "identity": {
+        "name": "Arjun",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 11,
+        "services_received": [],
+        "lifetime_value": 15675
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_193_reyansh_for_m_049_komal_pharmacie_lucknow",
+      "merchant_id": "m_049_komal_pharmacie_lucknow",
+      "identity": {
+        "name": "Reyansh",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 12,
+        "services_received": [],
+        "lifetime_value": 3012
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_128_aarav_for_m_032_mukesh_restaurant_pune",
+      "merchant_id": "m_032_mukesh_restaurant_pune",
+      "identity": {
+        "name": "Aarav",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 5,
+        "services_received": [],
+        "lifetime_value": 1970
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_149_myra_for_m_038_pooja_gym_chandigarh",
+      "merchant_id": "m_038_pooja_gym_chandigarh",
+      "identity": {
+        "name": "Myra",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 5,
+        "services_received": [],
+        "lifetime_value": 5610
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_030_vihaan_for_m_006_southindiancafe_restaurant_bangalore",
+      "merchant_id": "m_006_southindiancafe_restaurant_bangalore",
+      "identity": {
+        "name": "Vihaan",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 12,
+        "services_received": [],
+        "lifetime_value": 16800
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_078_diya_for_m_020_renu_salon_lucknow",
+      "merchant_id": "m_020_renu_salon_lucknow",
+      "identity": {
+        "name": "Diya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 10,
+        "services_received": [],
+        "lifetime_value": 12760
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_066_tara_for_m_017_dr_rajan_dentist_mumbai",
+      "merchant_id": "m_017_dr_rajan_dentist_mumbai",
+      "identity": {
+        "name": "Tara",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 2,
+        "services_received": [],
+        "lifetime_value": 556
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_181_vivaan_for_m_046_sunita_pharmacie_lucknow",
+      "merchant_id": "m_046_sunita_pharmacie_lucknow",
+      "identity": {
+        "name": "Vivaan",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 9,
+        "services_received": [],
+        "lifetime_value": 12078
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_157_riya_for_m_040_karan_gym_ahmedabad",
+      "merchant_id": "m_040_karan_gym_ahmedabad",
+      "identity": {
+        "name": "Riya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 8,
+        "services_received": [],
+        "lifetime_value": 5648
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_073_arjun_for_m_019_karim_salon_lucknow",
+      "merchant_id": "m_019_karim_salon_lucknow",
+      "identity": {
+        "name": "Arjun",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 12,
+        "services_received": [],
+        "lifetime_value": 2832
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_131_ananya_for_m_033_anand_restaurant_bangalore",
+      "merchant_id": "m_033_anand_restaurant_bangalore",
+      "identity": {
+        "name": "Ananya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 2,
+        "services_received": [],
+        "lifetime_value": 432
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_065_kavya_for_m_017_dr_rajan_dentist_mumbai",
+      "merchant_id": "m_017_dr_rajan_dentist_mumbai",
+      "identity": {
+        "name": "Kavya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 12,
+        "services_received": [],
+        "lifetime_value": 12192
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_055_reyansh_for_m_014_dr_asha_dentist_chandigarh",
+      "merchant_id": "m_014_dr_asha_dentist_chandigarh",
+      "identity": {
+        "name": "Reyansh",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 5,
+        "services_received": [],
+        "lifetime_value": 4390
+      },
+      "state": "churned",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_119_diya_for_m_030_sandeep_restaurant_chandigarh",
+      "merchant_id": "m_030_sandeep_restaurant_chandigarh",
+      "identity": {
+        "name": "Diya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 3,
+        "services_received": [],
+        "lifetime_value": 2889
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_089_ira_for_m_023_sushma_salon_pune",
+      "merchant_id": "m_023_sushma_salon_pune",
+      "identity": {
+        "name": "Ira",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 7,
+        "services_received": [],
+        "lifetime_value": 10052
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_056_anika_for_m_014_dr_asha_dentist_chandigarh",
+      "merchant_id": "m_014_dr_asha_dentist_chandigarh",
+      "identity": {
+        "name": "Anika",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 8,
+        "services_received": [],
+        "lifetime_value": 2960
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_090_anika_for_m_023_sushma_salon_pune",
+      "merchant_id": "m_023_sushma_salon_pune",
+      "identity": {
+        "name": "Anika",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 9,
+        "services_received": [],
+        "lifetime_value": 3312
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_122_anika_for_m_031_suresh_restaurant_jaipur",
+      "merchant_id": "m_031_suresh_restaurant_jaipur",
+      "identity": {
+        "name": "Anika",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 3,
+        "services_received": [],
+        "lifetime_value": 3135
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_074_vihaan_for_m_019_karim_salon_lucknow",
+      "merchant_id": "m_019_karim_salon_lucknow",
+      "identity": {
+        "name": "Vihaan",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 8,
+        "services_received": [],
+        "lifetime_value": 9704
+      },
+      "state": "churned",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_146_aditya_for_m_037_pooja_gym_bangalore",
+      "merchant_id": "m_037_pooja_gym_bangalore",
+      "identity": {
+        "name": "Aditya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 4,
+        "services_received": [],
+        "lifetime_value": 3656
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_171_arjun_for_m_043_komal_pharmacie_ahmedabad",
+      "merchant_id": "m_043_komal_pharmacie_ahmedabad",
+      "identity": {
+        "name": "Arjun",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 3,
+        "services_received": [],
+        "lifetime_value": 1209
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_084_arjun_for_m_021_paras_salon_chandigarh",
+      "merchant_id": "m_021_paras_salon_chandigarh",
+      "identity": {
+        "name": "Arjun",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 8,
+        "services_received": [],
+        "lifetime_value": 10928
+      },
+      "state": "churned",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_192_ishaan_for_m_048_vinod_pharmacie_mumbai",
+      "merchant_id": "m_048_vinod_pharmacie_mumbai",
+      "identity": {
+        "name": "Ishaan",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 4,
+        "services_received": [],
+        "lifetime_value": 2780
+      },
+      "state": "new",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_034_diya_for_m_008_zenyoga_gym_chennai",
+      "merchant_id": "m_008_zenyoga_gym_chennai",
+      "identity": {
+        "name": "Diya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 9,
+        "services_received": [],
+        "lifetime_value": 6183
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_011_sumitra_for_m008",
+      "merchant_id": "m_008_zenyoga_gym_chennai",
+      "identity": {
+        "name": "Sumitra",
+        "phone_redacted": "<phone>",
+        "language_pref": "ta-en mix",
+        "age_band": "45-55"
+      },
+      "relationship": {
+        "first_visit": "2025-04-12",
+        "last_visit": "2026-04-26",
+        "visits_total": 145,
+        "services_received": [
+          "yoga_intermediate_x12_months",
+          "pilates_x4_months"
+        ],
+        "lifetime_value": 28800
+      },
+      "state": "active",
+      "preferences": {
+        "preferred_slots": "morning_6am",
+        "channel": "whatsapp",
+        "reminder_opt_in": true,
+        "health_focus": "back_pain_management"
+      },
+      "consent": {
+        "opted_in_at": "2025-04-12",
+        "scope": [
+          "program_updates",
+          "health_content",
+          "renewal_reminders"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_182_aadhya_for_m_046_sunita_pharmacie_lucknow",
+      "merchant_id": "m_046_sunita_pharmacie_lucknow",
+      "identity": {
+        "name": "Aadhya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 6,
+        "services_received": [],
+        "lifetime_value": 6780
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_154_ira_for_m_039_karan_gym_jaipur",
+      "merchant_id": "m_039_karan_gym_jaipur",
+      "identity": {
+        "name": "Ira",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 8,
+        "services_received": [],
+        "lifetime_value": 7080
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_109_saanvi_for_m_028_karim_restaurant_chennai",
+      "merchant_id": "m_028_karim_restaurant_chennai",
+      "identity": {
+        "name": "Saanvi",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 5,
+        "services_received": [],
+        "lifetime_value": 4000
+      },
+      "state": "new",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_148_kavya_for_m_037_pooja_gym_bangalore",
+      "merchant_id": "m_037_pooja_gym_bangalore",
+      "identity": {
+        "name": "Kavya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 8,
+        "services_received": [],
+        "lifetime_value": 8688
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_138_tara_for_m_035_manisha_gym_delhi",
+      "merchant_id": "m_035_manisha_gym_delhi",
+      "identity": {
+        "name": "Tara",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 2,
+        "services_received": [],
+        "lifetime_value": 980
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_035_diya_for_m_008_zenyoga_gym_chennai",
+      "merchant_id": "m_008_zenyoga_gym_chennai",
+      "identity": {
+        "name": "Diya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 10,
+        "services_received": [],
+        "lifetime_value": 11760
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_041_riya_for_m_011_dr_sameer_dentist_bangalore",
+      "merchant_id": "m_011_dr_sameer_dentist_bangalore",
+      "identity": {
+        "name": "Riya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 5,
+        "services_received": [],
+        "lifetime_value": 6120
+      },
+      "state": "new",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_019_tara_for_m_002_bharat_dentist_mumbai",
+      "merchant_id": "m_002_bharat_dentist_mumbai",
+      "identity": {
+        "name": "Tara",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 2,
+        "services_received": [],
+        "lifetime_value": 1312
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_048_kavya_for_m_012_dr_karthik_dentist_mumbai",
+      "merchant_id": "m_012_dr_karthik_dentist_mumbai",
+      "identity": {
+        "name": "Kavya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 11,
+        "services_received": [],
+        "lifetime_value": 2640
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_100_myra_for_m_025_salim_salon_mumbai",
+      "merchant_id": "m_025_salim_salon_mumbai",
+      "identity": {
+        "name": "Myra",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 9,
+        "services_received": [],
+        "lifetime_value": 11925
+      },
+      "state": "lapsed_hard",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_099_aditya_for_m_025_salim_salon_mumbai",
+      "merchant_id": "m_025_salim_salon_mumbai",
+      "identity": {
+        "name": "Aditya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 6,
+        "services_received": [],
+        "lifetime_value": 5778
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_141_myra_for_m_036_roshni_gym_ahmedabad",
+      "merchant_id": "m_036_roshni_gym_ahmedabad",
+      "identity": {
+        "name": "Myra",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 12,
+        "services_received": [],
+        "lifetime_value": 10476
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_092_saanvi_for_m_023_sushma_salon_pune",
+      "merchant_id": "m_023_sushma_salon_pune",
+      "identity": {
+        "name": "Saanvi",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 11,
+        "services_received": [],
+        "lifetime_value": 13948
+      },
+      "state": "new",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_007_naveen_for_m006",
+      "merchant_id": "m_006_southindiancafe_restaurant_bangalore",
+      "identity": {
+        "name": "Naveen",
+        "phone_redacted": "<phone>",
+        "language_pref": "kn-en mix",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-06-05",
+        "last_visit": "2026-04-25",
+        "visits_total": 38,
+        "services_received": [
+          "weekday_thali",
+          "weekday_thali",
+          "weekday_thali",
+          "filter_coffee",
+          "..."
+        ],
+        "lifetime_value": 6480,
+        "favourite_dish": "Mylari Dosa"
+      },
+      "state": "active",
+      "preferences": {
+        "preferred_slots": "weekday_lunch",
+        "channel": "whatsapp",
+        "reminder_opt_in": true,
+        "office_nearby": true
+      },
+      "consent": {
+        "opted_in_at": "2025-06-05",
+        "scope": [
+          "promotional_offers",
+          "lunch_thali_updates"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_093_diya_for_m_024_geeta_salon_bangalore",
+      "merchant_id": "m_024_geeta_salon_bangalore",
+      "identity": {
+        "name": "Diya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 10,
+        "services_received": [],
+        "lifetime_value": 2690
+      },
+      "state": "lapsed_hard",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_085_arjun_for_m_022_renu_salon_ahmedabad",
+      "merchant_id": "m_022_renu_salon_ahmedabad",
+      "identity": {
+        "name": "Arjun",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 12,
+        "services_received": [],
+        "lifetime_value": 13392
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_080_riya_for_m_020_renu_salon_lucknow",
+      "merchant_id": "m_020_renu_salon_lucknow",
+      "identity": {
+        "name": "Riya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 2,
+        "services_received": [],
+        "lifetime_value": 1656
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_110_riya_for_m_028_karim_restaurant_chennai",
+      "merchant_id": "m_028_karim_restaurant_chennai",
+      "identity": {
+        "name": "Riya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 1,
+        "services_received": [],
+        "lifetime_value": 686
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_107_kavya_for_m_027_anand_restaurant_chennai",
+      "merchant_id": "m_027_anand_restaurant_chennai",
+      "identity": {
+        "name": "Kavya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 6,
+        "services_received": [],
+        "lifetime_value": 8880
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_164_arjun_for_m_041_akash_gym_hyderabad",
+      "merchant_id": "m_041_akash_gym_hyderabad",
+      "identity": {
+        "name": "Arjun",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 2,
+        "services_received": [],
+        "lifetime_value": 2944
+      },
+      "state": "lapsed_hard",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_009_arjun_for_m007",
+      "merchant_id": "m_007_powerhouse_gym_bangalore",
+      "identity": {
+        "name": "Arjun",
+        "phone_redacted": "<phone>",
+        "language_pref": "english",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2026-01-05",
+        "last_visit": "2026-04-21",
+        "visits_total": 78,
+        "services_received": [
+          "membership_jan",
+          "membership_feb",
+          "membership_mar",
+          "membership_apr",
+          "PT_session_x12"
+        ],
+        "lifetime_value": 9990
+      },
+      "state": "active",
+      "preferences": {
+        "preferred_slots": "weekday_7am",
+        "channel": "whatsapp",
+        "reminder_opt_in": true,
+        "training_focus": "strength"
+      },
+      "consent": {
+        "opted_in_at": "2026-01-05",
+        "scope": [
+          "program_updates",
+          "renewal_reminders"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_135_riya_for_m_034_suresh_restaurant_delhi",
+      "merchant_id": "m_034_suresh_restaurant_delhi",
+      "identity": {
+        "name": "Riya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 10,
+        "services_received": [],
+        "lifetime_value": 4310
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_070_kavya_for_m_018_dr_asha_dentist_ahmedabad",
+      "merchant_id": "m_018_dr_asha_dentist_ahmedabad",
+      "identity": {
+        "name": "Kavya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 7,
+        "services_received": [],
+        "lifetime_value": 9625
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_025_tara_for_m_004_glamour_salon_pune",
+      "merchant_id": "m_004_glamour_salon_pune",
+      "identity": {
+        "name": "Tara",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 10,
+        "services_received": [],
+        "lifetime_value": 11600
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_038_aadhya_for_m_010_sunrisepharm_pharmacy_lucknow",
+      "merchant_id": "m_010_sunrisepharm_pharmacy_lucknow",
+      "identity": {
+        "name": "Aadhya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 2,
+        "services_received": [],
+        "lifetime_value": 554
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_142_ira_for_m_036_roshni_gym_ahmedabad",
+      "merchant_id": "m_036_roshni_gym_ahmedabad",
+      "identity": {
+        "name": "Ira",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 10,
+        "services_received": [],
+        "lifetime_value": 8460
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_097_ananya_for_m_025_salim_salon_mumbai",
+      "merchant_id": "m_025_salim_salon_mumbai",
+      "identity": {
+        "name": "Ananya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 10,
+        "services_received": [],
+        "lifetime_value": 7520
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_116_diya_for_m_029_anand_restaurant_chandigarh",
+      "merchant_id": "m_029_anand_restaurant_chandigarh",
+      "identity": {
+        "name": "Diya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 7,
+        "services_received": [],
+        "lifetime_value": 9751
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_127_myra_for_m_032_mukesh_restaurant_pune",
+      "merchant_id": "m_032_mukesh_restaurant_pune",
+      "identity": {
+        "name": "Myra",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 9,
+        "services_received": [],
+        "lifetime_value": 8523
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_023_aryan_for_m_004_glamour_salon_pune",
+      "merchant_id": "m_004_glamour_salon_pune",
+      "identity": {
+        "name": "Aryan",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 4,
+        "services_received": [],
+        "lifetime_value": 3376
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_069_diya_for_m_018_dr_asha_dentist_ahmedabad",
+      "merchant_id": "m_018_dr_asha_dentist_ahmedabad",
+      "identity": {
+        "name": "Diya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 8,
+        "services_received": [],
+        "lifetime_value": 2960
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_095_ananya_for_m_024_geeta_salon_bangalore",
+      "merchant_id": "m_024_geeta_salon_bangalore",
+      "identity": {
+        "name": "Ananya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 1,
+        "services_received": [],
+        "lifetime_value": 1160
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_002_rohit_for_m001",
+      "merchant_id": "m_001_drmeera_dentist_delhi",
+      "identity": {
+        "name": "Rohit",
+        "phone_redacted": "<phone>",
+        "language_pref": "english",
+        "age_band": "35-45"
+      },
+      "relationship": {
+        "first_visit": "2026-02-12",
+        "last_visit": "2026-04-18",
+        "visits_total": 2,
+        "services_received": [
+          "root_canal_consult",
+          "root_canal_session_1"
+        ],
+        "lifetime_value": 5500
+      },
+      "state": "active",
+      "preferences": {
+        "preferred_slots": "saturday_morning",
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2026-02-12",
+        "scope": [
+          "recall_reminders",
+          "appointment_reminders",
+          "treatment_followup"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_026_saanvi_for_m_004_glamour_salon_pune",
+      "merchant_id": "m_004_glamour_salon_pune",
+      "identity": {
+        "name": "Saanvi",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 9,
+        "services_received": [],
+        "lifetime_value": 3510
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_190_diya_for_m_048_vinod_pharmacie_mumbai",
+      "merchant_id": "m_048_vinod_pharmacie_mumbai",
+      "identity": {
+        "name": "Diya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 11,
+        "services_received": [],
+        "lifetime_value": 7293
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_187_kavya_for_m_047_anil_pharmacie_chandigarh",
+      "merchant_id": "m_047_anil_pharmacie_chandigarh",
+      "identity": {
+        "name": "Kavya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 8,
+        "services_received": [],
+        "lifetime_value": 9976
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_191_aditya_for_m_048_vinod_pharmacie_mumbai",
+      "merchant_id": "m_048_vinod_pharmacie_mumbai",
+      "identity": {
+        "name": "Aditya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 3,
+        "services_received": [],
+        "lifetime_value": 1110
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_126_aditya_for_m_032_mukesh_restaurant_pune",
+      "merchant_id": "m_032_mukesh_restaurant_pune",
+      "identity": {
+        "name": "Aditya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 6,
+        "services_received": [],
+        "lifetime_value": 5508
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_017_tara_for_m_002_bharat_dentist_mumbai",
+      "merchant_id": "m_002_bharat_dentist_mumbai",
+      "identity": {
+        "name": "Tara",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 7,
+        "services_received": [],
+        "lifetime_value": 3262
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_184_myra_for_m_046_sunita_pharmacie_lucknow",
+      "merchant_id": "m_046_sunita_pharmacie_lucknow",
+      "identity": {
+        "name": "Myra",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 3,
+        "services_received": [],
+        "lifetime_value": 4038
+      },
+      "state": "new",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_063_reyansh_for_m_016_dr_rajan_dentist_pune",
+      "merchant_id": "m_016_dr_rajan_dentist_pune",
+      "identity": {
+        "name": "Reyansh",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 5,
+        "services_received": [],
+        "lifetime_value": 6300
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_160_kavya_for_m_040_karan_gym_ahmedabad",
+      "merchant_id": "m_040_karan_gym_ahmedabad",
+      "identity": {
+        "name": "Kavya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 6,
+        "services_received": [],
+        "lifetime_value": 6744
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_196_saanvi_for_m_049_komal_pharmacie_lucknow",
+      "merchant_id": "m_049_komal_pharmacie_lucknow",
+      "identity": {
+        "name": "Saanvi",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 3,
+        "services_received": [],
+        "lifetime_value": 4077
+      },
+      "state": "churned",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_112_saanvi_for_m_028_karim_restaurant_chennai",
+      "merchant_id": "m_028_karim_restaurant_chennai",
+      "identity": {
+        "name": "Saanvi",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 2,
+        "services_received": [],
+        "lifetime_value": 524
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_117_riya_for_m_030_sandeep_restaurant_chandigarh",
+      "merchant_id": "m_030_sandeep_restaurant_chandigarh",
+      "identity": {
+        "name": "Riya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 7,
+        "services_received": [],
+        "lifetime_value": 8897
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_118_aarav_for_m_030_sandeep_restaurant_chandigarh",
+      "merchant_id": "m_030_sandeep_restaurant_chandigarh",
+      "identity": {
+        "name": "Aarav",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 4,
+        "services_received": [],
+        "lifetime_value": 4736
+      },
+      "state": "lapsed_hard",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_028_ishaan_for_m_005_pizzajunction_restaurant_delhi",
+      "merchant_id": "m_005_pizzajunction_restaurant_delhi",
+      "identity": {
+        "name": "Ishaan",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 2,
+        "services_received": [],
+        "lifetime_value": 2602
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_108_arjun_for_m_027_anand_restaurant_chennai",
+      "merchant_id": "m_027_anand_restaurant_chennai",
+      "identity": {
+        "name": "Arjun",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 9,
+        "services_received": [],
+        "lifetime_value": 11763
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_020_riya_for_m_002_bharat_dentist_mumbai",
+      "merchant_id": "m_002_bharat_dentist_mumbai",
+      "identity": {
+        "name": "Riya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 1,
+        "services_received": [],
+        "lifetime_value": 1055
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_163_aryan_for_m_041_akash_gym_hyderabad",
+      "merchant_id": "m_041_akash_gym_hyderabad",
+      "identity": {
+        "name": "Aryan",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 3,
+        "services_received": [],
+        "lifetime_value": 2688
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_139_aditya_for_m_035_manisha_gym_delhi",
+      "merchant_id": "m_035_manisha_gym_delhi",
+      "identity": {
+        "name": "Aditya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 5,
+        "services_received": [],
+        "lifetime_value": 3510
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_013_grandfather_for_m009",
+      "merchant_id": "m_009_apollo_pharmacy_jaipur",
+      "identity": {
+        "name": "Mr. Sharma",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "65-75",
+        "senior_citizen": true
+      },
+      "relationship": {
+        "first_visit": "2024-08-10",
+        "last_visit": "2026-04-22",
+        "visits_total": 24,
+        "services_received": [
+          "chronic_rx_metformin",
+          "chronic_rx_atorvastatin",
+          "chronic_rx_telmisartan",
+          "..."
+        ],
+        "lifetime_value": 24600,
+        "chronic_conditions": [
+          "diabetes_t2",
+          "hypertension",
+          "dyslipidemia"
+        ]
+      },
+      "state": "active",
+      "preferences": {
+        "preferred_slots": "morning_delivery",
+        "channel": "whatsapp_via_son",
+        "reminder_opt_in": true,
+        "delivery_address": "saved"
+      },
+      "consent": {
+        "opted_in_at": "2024-08-10",
+        "scope": [
+          "refill_reminders",
+          "delivery_notifications",
+          "recall_alerts"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_150_saanvi_for_m_038_pooja_gym_chandigarh",
+      "merchant_id": "m_038_pooja_gym_chandigarh",
+      "identity": {
+        "name": "Saanvi",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 7,
+        "services_received": [],
+        "lifetime_value": 6370
+      },
+      "state": "churned",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_047_tara_for_m_012_dr_karthik_dentist_mumbai",
+      "merchant_id": "m_012_dr_karthik_dentist_mumbai",
+      "identity": {
+        "name": "Tara",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 9,
+        "services_received": [],
+        "lifetime_value": 3348
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_043_ira_for_m_011_dr_sameer_dentist_bangalore",
+      "merchant_id": "m_011_dr_sameer_dentist_bangalore",
+      "identity": {
+        "name": "Ira",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 5,
+        "services_received": [],
+        "lifetime_value": 5615
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_062_riya_for_m_016_dr_rajan_dentist_pune",
+      "merchant_id": "m_016_dr_rajan_dentist_pune",
+      "identity": {
+        "name": "Riya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 6,
+        "services_received": [],
+        "lifetime_value": 1938
+      },
+      "state": "churned",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_077_ishaan_for_m_020_renu_salon_lucknow",
+      "merchant_id": "m_020_renu_salon_lucknow",
+      "identity": {
+        "name": "Ishaan",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 3,
+        "services_received": [],
+        "lifetime_value": 2784
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_129_tara_for_m_033_anand_restaurant_bangalore",
+      "merchant_id": "m_033_anand_restaurant_bangalore",
+      "identity": {
+        "name": "Tara",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 2,
+        "services_received": [],
+        "lifetime_value": 1988
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_008_dipti_for_m006",
+      "merchant_id": "m_006_southindiancafe_restaurant_bangalore",
+      "identity": {
+        "name": "Dipti",
+        "phone_redacted": "<phone>",
+        "language_pref": "english",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-12-18",
+        "last_visit": "2026-01-05",
+        "visits_total": 2,
+        "services_received": [
+          "family_brunch",
+          "delivery_dosa_combo"
+        ],
+        "lifetime_value": 1280
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "preferred_slots": "sunday_brunch",
+        "channel": "whatsapp",
+        "reminder_opt_in": true,
+        "family_size": 4
+      },
+      "consent": {
+        "opted_in_at": "2025-12-18",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_015_anonymous_for_m010",
+      "merchant_id": "m_010_sunrisepharm_pharmacy_lucknow",
+      "identity": {
+        "name": "(walk-in, no profile)",
+        "phone_redacted": null,
+        "language_pref": "hi",
+        "age_band": "unknown"
+      },
+      "relationship": {
+        "first_visit": "2026-04-15",
+        "last_visit": "2026-04-15",
+        "visits_total": 1,
+        "services_received": [
+          "walk_in_otc"
+        ],
+        "lifetime_value": 240
+      },
+      "state": "new",
+      "preferences": {
+        "channel": "none_recorded",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": null,
+        "scope": []
+      }
+    },
+    {
+      "customer_id": "c_004_sneha_for_m003",
+      "merchant_id": "m_003_studio11_salon_hyderabad",
+      "identity": {
+        "name": "Sneha",
+        "phone_redacted": "<phone>",
+        "language_pref": "te-en mix",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-14",
+        "last_visit": "2026-04-19",
+        "visits_total": 11,
+        "services_received": [
+          "balayage",
+          "hair_spa",
+          "balayage_touchup",
+          "manicure",
+          "pedicure",
+          "haircut",
+          "haircut",
+          "balayage",
+          "hair_spa",
+          "facial",
+          "haircut"
+        ],
+        "lifetime_value": 18450
+      },
+      "state": "active",
+      "preferences": {
+        "preferred_slots": "saturday_afternoon",
+        "channel": "whatsapp",
+        "reminder_opt_in": true,
+        "preferred_stylist": "Priya"
+      },
+      "consent": {
+        "opted_in_at": "2025-09-14",
+        "scope": [
+          "appointment_reminders",
+          "promotional_offers",
+          "stylist_specific"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_105_kavya_for_m_027_anand_restaurant_chennai",
+      "merchant_id": "m_027_anand_restaurant_chennai",
+      "identity": {
+        "name": "Kavya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 3,
+        "services_received": [],
+        "lifetime_value": 3912
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_145_riya_for_m_037_pooja_gym_bangalore",
+      "merchant_id": "m_037_pooja_gym_bangalore",
+      "identity": {
+        "name": "Riya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 7,
+        "services_received": [],
+        "lifetime_value": 3367
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_102_anika_for_m_026_karim_salon_ahmedabad",
+      "merchant_id": "m_026_karim_salon_ahmedabad",
+      "identity": {
+        "name": "Anika",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 11,
+        "services_received": [],
+        "lifetime_value": 9933
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_158_aryan_for_m_040_karan_gym_ahmedabad",
+      "merchant_id": "m_040_karan_gym_ahmedabad",
+      "identity": {
+        "name": "Aryan",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 2,
+        "services_received": [],
+        "lifetime_value": 1126
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_175_anika_for_m_044_vinod_pharmacie_chennai",
+      "merchant_id": "m_044_vinod_pharmacie_chennai",
+      "identity": {
+        "name": "Anika",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 3,
+        "services_received": [],
+        "lifetime_value": 2064
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_027_riya_for_m_005_pizzajunction_restaurant_delhi",
+      "merchant_id": "m_005_pizzajunction_restaurant_delhi",
+      "identity": {
+        "name": "Riya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 1,
+        "services_received": [],
+        "lifetime_value": 1427
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_071_arjun_for_m_018_dr_asha_dentist_ahmedabad",
+      "merchant_id": "m_018_dr_asha_dentist_ahmedabad",
+      "identity": {
+        "name": "Arjun",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 3,
+        "services_received": [],
+        "lifetime_value": 1845
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_040_arjun_for_m_010_sunrisepharm_pharmacy_lucknow",
+      "merchant_id": "m_010_sunrisepharm_pharmacy_lucknow",
+      "identity": {
+        "name": "Arjun",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 7,
+        "services_received": [],
+        "lifetime_value": 10115
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_024_aditya_for_m_004_glamour_salon_pune",
+      "merchant_id": "m_004_glamour_salon_pune",
+      "identity": {
+        "name": "Aditya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 9,
+        "services_received": [],
+        "lifetime_value": 8037
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_197_anika_for_m_050_bharti_pharmacie_chennai",
+      "merchant_id": "m_050_bharti_pharmacie_chennai",
+      "identity": {
+        "name": "Anika",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 1,
+        "services_received": [],
+        "lifetime_value": 1403
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_130_ira_for_m_033_anand_restaurant_bangalore",
+      "merchant_id": "m_033_anand_restaurant_bangalore",
+      "identity": {
+        "name": "Ira",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 11,
+        "services_received": [],
+        "lifetime_value": 14212
+      },
+      "state": "new",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_178_aryan_for_m_045_vinod_pharmacie_mumbai",
+      "merchant_id": "m_045_vinod_pharmacie_mumbai",
+      "identity": {
+        "name": "Aryan",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 11,
+        "services_received": [],
+        "lifetime_value": 9031
+      },
+      "state": "new",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_052_aditya_for_m_013_dr_neha_dentist_jaipur",
+      "merchant_id": "m_013_dr_neha_dentist_jaipur",
+      "identity": {
+        "name": "Aditya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 2,
+        "services_received": [],
+        "lifetime_value": 932
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_049_myra_for_m_013_dr_neha_dentist_jaipur",
+      "merchant_id": "m_013_dr_neha_dentist_jaipur",
+      "identity": {
+        "name": "Myra",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 2,
+        "services_received": [],
+        "lifetime_value": 782
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_194_myra_for_m_049_komal_pharmacie_lucknow",
+      "merchant_id": "m_049_komal_pharmacie_lucknow",
+      "identity": {
+        "name": "Myra",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 8,
+        "services_received": [],
+        "lifetime_value": 8328
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_057_aarav_for_m_015_dr_priya_dentist_chandigarh",
+      "merchant_id": "m_015_dr_priya_dentist_chandigarh",
+      "identity": {
+        "name": "Aarav",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 7,
+        "services_received": [],
+        "lifetime_value": 2310
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_161_aadhya_for_m_041_akash_gym_hyderabad",
+      "merchant_id": "m_041_akash_gym_hyderabad",
+      "identity": {
+        "name": "Aadhya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 5,
+        "services_received": [],
+        "lifetime_value": 4100
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_140_diya_for_m_035_manisha_gym_delhi",
+      "merchant_id": "m_035_manisha_gym_delhi",
+      "identity": {
+        "name": "Diya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 9,
+        "services_received": [],
+        "lifetime_value": 5877
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_169_aryan_for_m_043_komal_pharmacie_ahmedabad",
+      "merchant_id": "m_043_komal_pharmacie_ahmedabad",
+      "identity": {
+        "name": "Aryan",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 12,
+        "services_received": [],
+        "lifetime_value": 4164
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_061_saanvi_for_m_016_dr_rajan_dentist_pune",
+      "merchant_id": "m_016_dr_rajan_dentist_pune",
+      "identity": {
+        "name": "Saanvi",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 9,
+        "services_received": [],
+        "lifetime_value": 2286
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_179_aadhya_for_m_045_vinod_pharmacie_mumbai",
+      "merchant_id": "m_045_vinod_pharmacie_mumbai",
+      "identity": {
+        "name": "Aadhya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 11,
+        "services_received": [],
+        "lifetime_value": 8184
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_083_anika_for_m_021_paras_salon_chandigarh",
+      "merchant_id": "m_021_paras_salon_chandigarh",
+      "identity": {
+        "name": "Anika",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 10,
+        "services_received": [],
+        "lifetime_value": 3990
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_029_tara_for_m_005_pizzajunction_restaurant_delhi",
+      "merchant_id": "m_005_pizzajunction_restaurant_delhi",
+      "identity": {
+        "name": "Tara",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 7,
+        "services_received": [],
+        "lifetime_value": 7945
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_001_priya_for_m001",
+      "merchant_id": "m_001_drmeera_dentist_delhi",
+      "identity": {
+        "name": "Priya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-11-04",
+        "last_visit": "2026-05-12",
+        "visits_total": 4,
+        "services_received": [
+          "cleaning",
+          "cleaning",
+          "whitening",
+          "cleaning"
+        ],
+        "lifetime_value": 1696
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "preferred_slots": "weekday_evening",
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-11-04",
+        "scope": [
+          "recall_reminders",
+          "appointment_reminders"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_091_arjun_for_m_023_sushma_salon_pune",
+      "merchant_id": "m_023_sushma_salon_pune",
+      "identity": {
+        "name": "Arjun",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 6,
+        "services_received": [],
+        "lifetime_value": 3528
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_176_diya_for_m_044_vinod_pharmacie_chennai",
+      "merchant_id": "m_044_vinod_pharmacie_chennai",
+      "identity": {
+        "name": "Diya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 7,
+        "services_received": [],
+        "lifetime_value": 7791
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_053_myra_for_m_014_dr_asha_dentist_chandigarh",
+      "merchant_id": "m_014_dr_asha_dentist_chandigarh",
+      "identity": {
+        "name": "Myra",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 2,
+        "services_received": [],
+        "lifetime_value": 1566
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_075_aditya_for_m_019_karim_salon_lucknow",
+      "merchant_id": "m_019_karim_salon_lucknow",
+      "identity": {
+        "name": "Aditya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 1,
+        "services_received": [],
+        "lifetime_value": 284
+      },
+      "state": "lapsed_hard",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_012_karthik_jr_for_m008",
+      "merchant_id": "m_008_zenyoga_gym_chennai",
+      "identity": {
+        "name": "Karthik (parent: Sumitra)",
+        "phone_redacted": "<phone>",
+        "language_pref": "ta-en mix",
+        "age_band": "child_7-12"
+      },
+      "relationship": {
+        "first_visit": "2026-04-22",
+        "last_visit": "2026-04-22",
+        "visits_total": 1,
+        "services_received": [
+          "kids_yoga_trial"
+        ],
+        "lifetime_value": 0
+      },
+      "state": "new",
+      "preferences": {
+        "preferred_slots": "saturday_morning",
+        "channel": "whatsapp_via_parent",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2026-04-22",
+        "scope": [
+          "kids_program_updates"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_021_arjun_for_m_003_studio11_salon_hyderabad",
+      "merchant_id": "m_003_studio11_salon_hyderabad",
+      "identity": {
+        "name": "Arjun",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 1,
+        "services_received": [],
+        "lifetime_value": 1295
+      },
+      "state": "churned",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_014_priti_for_m009",
+      "merchant_id": "m_009_apollo_pharmacy_jaipur",
+      "identity": {
+        "name": "Priti",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2026-03-10",
+        "last_visit": "2026-04-12",
+        "visits_total": 3,
+        "services_received": [
+          "walk_in_otc",
+          "delivery_otc",
+          "consult_with_pharmacist"
+        ],
+        "lifetime_value": 580
+      },
+      "state": "active",
+      "preferences": {
+        "preferred_slots": "evening",
+        "channel": "whatsapp",
+        "reminder_opt_in": true,
+        "household_size": 4
+      },
+      "consent": {
+        "opted_in_at": "2026-03-10",
+        "scope": [
+          "promotional_offers",
+          "seasonal_health_content"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_050_kavya_for_m_013_dr_neha_dentist_jaipur",
+      "merchant_id": "m_013_dr_neha_dentist_jaipur",
+      "identity": {
+        "name": "Kavya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 3,
+        "services_received": [],
+        "lifetime_value": 3639
+      },
+      "state": "churned",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_079_ishaan_for_m_020_renu_salon_lucknow",
+      "merchant_id": "m_020_renu_salon_lucknow",
+      "identity": {
+        "name": "Ishaan",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 4,
+        "services_received": [],
+        "lifetime_value": 4832
+      },
+      "state": "new",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_068_arjun_for_m_017_dr_rajan_dentist_mumbai",
+      "merchant_id": "m_017_dr_rajan_dentist_mumbai",
+      "identity": {
+        "name": "Arjun",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 10,
+        "services_received": [],
+        "lifetime_value": 6420
+      },
+      "state": "lapsed_hard",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_098_ira_for_m_025_salim_salon_mumbai",
+      "merchant_id": "m_025_salim_salon_mumbai",
+      "identity": {
+        "name": "Ira",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 10,
+        "services_received": [],
+        "lifetime_value": 9070
+      },
+      "state": "lapsed_hard",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_082_aadhya_for_m_021_paras_salon_chandigarh",
+      "merchant_id": "m_021_paras_salon_chandigarh",
+      "identity": {
+        "name": "Aadhya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 4,
+        "services_received": [],
+        "lifetime_value": 1084
+      },
+      "state": "churned",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_120_aarav_for_m_030_sandeep_restaurant_chandigarh",
+      "merchant_id": "m_030_sandeep_restaurant_chandigarh",
+      "identity": {
+        "name": "Aarav",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 2,
+        "services_received": [],
+        "lifetime_value": 2310
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_155_ira_for_m_039_karan_gym_jaipur",
+      "merchant_id": "m_039_karan_gym_jaipur",
+      "identity": {
+        "name": "Ira",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 8,
+        "services_received": [],
+        "lifetime_value": 3576
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_101_ira_for_m_026_karim_salon_ahmedabad",
+      "merchant_id": "m_026_karim_salon_ahmedabad",
+      "identity": {
+        "name": "Ira",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 12,
+        "services_received": [],
+        "lifetime_value": 6348
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_005_kavya_for_m003",
+      "merchant_id": "m_003_studio11_salon_hyderabad",
+      "identity": {
+        "name": "Kavya",
+        "phone_redacted": "<phone>",
+        "language_pref": "english",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2026-03-22",
+        "last_visit": "2026-03-22",
+        "visits_total": 1,
+        "services_received": [
+          "bridal_trial"
+        ],
+        "lifetime_value": 999
+      },
+      "state": "new",
+      "preferences": {
+        "preferred_slots": "saturday",
+        "channel": "whatsapp",
+        "reminder_opt_in": true,
+        "wedding_date": "2026-11-08"
+      },
+      "consent": {
+        "opted_in_at": "2026-03-22",
+        "scope": [
+          "appointment_reminders",
+          "bridal_package_followup"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_087_ananya_for_m_022_renu_salon_ahmedabad",
+      "merchant_id": "m_022_renu_salon_ahmedabad",
+      "identity": {
+        "name": "Ananya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 9,
+        "services_received": [],
+        "lifetime_value": 8946
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": false
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_165_aarav_for_m_042_pooja_gym_pune",
+      "merchant_id": "m_042_pooja_gym_pune",
+      "identity": {
+        "name": "Aarav",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 11,
+        "services_received": [],
+        "lifetime_value": 9383
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_088_aryan_for_m_022_renu_salon_ahmedabad",
+      "merchant_id": "m_022_renu_salon_ahmedabad",
+      "identity": {
+        "name": "Aryan",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 7,
+        "services_received": [],
+        "lifetime_value": 6594
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_159_riya_for_m_040_karan_gym_ahmedabad",
+      "merchant_id": "m_040_karan_gym_ahmedabad",
+      "identity": {
+        "name": "Riya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "25-35"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 2,
+        "services_received": [],
+        "lifetime_value": 516
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_072_reyansh_for_m_018_dr_asha_dentist_ahmedabad",
+      "merchant_id": "m_018_dr_asha_dentist_ahmedabad",
+      "identity": {
+        "name": "Reyansh",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 5,
+        "services_received": [],
+        "lifetime_value": 1065
+      },
+      "state": "lapsed_hard",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_042_arjun_for_m_011_dr_sameer_dentist_bangalore",
+      "merchant_id": "m_011_dr_sameer_dentist_bangalore",
+      "identity": {
+        "name": "Arjun",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi-en mix",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 12,
+        "services_received": [],
+        "lifetime_value": 6960
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_103_riya_for_m_026_karim_salon_ahmedabad",
+      "merchant_id": "m_026_karim_salon_ahmedabad",
+      "identity": {
+        "name": "Riya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 11,
+        "services_received": [],
+        "lifetime_value": 8305
+      },
+      "state": "churned",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_106_ananya_for_m_027_anand_restaurant_chennai",
+      "merchant_id": "m_027_anand_restaurant_chennai",
+      "identity": {
+        "name": "Ananya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 8,
+        "services_received": [],
+        "lifetime_value": 9400
+      },
+      "state": "churned",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_125_aarav_for_m_032_mukesh_restaurant_pune",
+      "merchant_id": "m_032_mukesh_restaurant_pune",
+      "identity": {
+        "name": "Aarav",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 3,
+        "services_received": [],
+        "lifetime_value": 3135
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_022_aditya_for_m_003_studio11_salon_hyderabad",
+      "merchant_id": "m_003_studio11_salon_hyderabad",
+      "identity": {
+        "name": "Aditya",
+        "phone_redacted": "<phone>",
+        "language_pref": "en",
+        "age_band": "30-40"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 3,
+        "services_received": [],
+        "lifetime_value": 2496
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_045_diya_for_m_012_dr_karthik_dentist_mumbai",
+      "merchant_id": "m_012_dr_karthik_dentist_mumbai",
+      "identity": {
+        "name": "Diya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "50-65"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 5,
+        "services_received": [],
+        "lifetime_value": 1615
+      },
+      "state": "lapsed_soft",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_076_aarav_for_m_019_karim_salon_lucknow",
+      "merchant_id": "m_019_karim_salon_lucknow",
+      "identity": {
+        "name": "Aarav",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "40-50"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 5,
+        "services_received": [],
+        "lifetime_value": 5845
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    },
+    {
+      "customer_id": "c_200_aditya_for_m_050_bharti_pharmacie_chennai",
+      "merchant_id": "m_050_bharti_pharmacie_chennai",
+      "identity": {
+        "name": "Aditya",
+        "phone_redacted": "<phone>",
+        "language_pref": "hi",
+        "age_band": "20-25"
+      },
+      "relationship": {
+        "first_visit": "2025-09-01",
+        "last_visit": "2026-04-01",
+        "visits_total": 7,
+        "services_received": [],
+        "lifetime_value": 2373
+      },
+      "state": "active",
+      "preferences": {
+        "channel": "whatsapp",
+        "reminder_opt_in": true
+      },
+      "consent": {
+        "opted_in_at": "2025-09-01",
+        "scope": [
+          "promotional_offers"
+        ]
+      }
+    }
+  ]
+}
